@@ -385,3 +385,4 @@ void turn_off_all(){
   digitalWrite(four_minutes, LOW);
   digitalWrite(five_minutes, LOW);
 }
+![embedded task4](https://github.com/user-attachments/assets/57de890b-fac9-4659-b404-c601b9f5c6e9)
